@@ -16,6 +16,6 @@ and subresed from a model (crappy or not).
 ## OSS_asset_tool ##
 * A pluging helping modelers create assets for unity (exporter, material generator, mesh optimizer .._);
 
-* ###### Change log ######
+###### Change log ######
 
 * [releases] Added on 09-10-2016
